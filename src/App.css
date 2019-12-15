@@ -31,3 +31,33 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  color: rgb(31, 161, 92);
+  font-size: 40px;
+ }
+
+ .title:hover{
+  color: rgb(123, 230, 173);
+  font-size: 40px;
+ }
+
+.subtitle{
+  color: black;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;  
+  }
+
+.img{
+ border-radius: 30px;
+ width: 80%
+ }
+
+.text{
+color: blue;
+background-color: #d5d8db;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-right: 100px;
+margin-left: 100px;
+}
